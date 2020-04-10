@@ -1,0 +1,11 @@
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\bin\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.deps.json
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\bin\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.dll
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\bin\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.pdb
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\obj\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.AssemblyInfoInputs.cache
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\obj\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.AssemblyInfo.cs
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\obj\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.dll
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\obj\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.pdb
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\bin\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.runtimeconfig.json
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\bin\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.runtimeconfig.dev.json
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\obj\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.genruntimeconfig.cache
+C:\Users\idobr\source\repos\StudingWizardPro\StudingWizardPro.DataAccess\obj\Debug\netcoreapp3.1\StudingWizardPro.DataAccess.csproj.CoreCompileInputs.cache

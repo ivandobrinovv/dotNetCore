@@ -1,0 +1,49 @@
+Роли -
+1. ученик
+2. учител
+3. админ
+4. guest
+
+-- функционалност - ще се качват статии, файлове, (платформа за учебни ресурси)-
+-- Ще има коментари и ревюта на статията
+-- панел администраторски - да маха user
+-- да има бутон edit на текст и след това suggest
+-- създателят на статията да има права над статията като админ
+
+
+Database structure:
+1. Users
+- ID (int)
+- Username (varchar(16))
+- Password (varchar(64))
+- FirstName (varchar(64))
+- LastName (varchar(64))
+- Gender (bit)
+- RoleID (int) (connection to Roles)
+
+2. Roles
+- ID (int)
+- Name (varchar(64))
+
+3. Articles
+- ID (int)
+- Title (varchar(128))
+- Body (varchar(2500))
+- AuthorID (int) (connection to Users)
+- DateOfCreation (DateTime)
+- LastUpdateDate (DateTime)
+- LastModifierID (int) (connection to Users)
+
+4. Files
+- ID (int)
+- Path (varchar(128))
+- LastModificationDate (DateTime)
+- AuthorID (int) (connection to Users)
+
+5. Comments
+- ID (int)
+- Text (varchar(512))
+- AuthorID (int)
+- DateOfCreation (DateTime)
+- ParentID (Nullable int)
+- Raiting (float)
